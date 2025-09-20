@@ -13,6 +13,8 @@ import java.util.Scanner;
  * @author srinivsi
  * Name: Naba Minhas
  * Student ID: 991646905
+ * 
+ * ICE-1 Final Changes
  **/
 public class CardTrick {
     
