@@ -47,7 +47,7 @@ public class CardTrick {
         String luckySuit = "Clubs";
         boolean luckyFound = contains(magicHand, luckyValue, luckySuit);
         System.out.println("Lucky Card: " + luckySuit + " " + luckyValue);
-        System.out.println(luckyFount ? "Lucky card FOUND! You WIN!" : "Lucky Card not Found.");
+        System.out.println(luckyFound ? "Lucky card FOUND! You WIN!" : "Lucky Card not Found.");
         
         
         
